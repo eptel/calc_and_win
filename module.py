@@ -50,8 +50,8 @@ def run_game():
     else:
         print('В этот раз не повезло :( Бой проигран.')
     yes_no = {
-        'y': True,
-        'n': False,
+        'Y': True,
+        'N': False,
         'Y': True,
         'N': False,
     }
