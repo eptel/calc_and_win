@@ -52,6 +52,8 @@ def run_game():
     yes_no = {
         'y': True,
         'n': False,
+        'Y': True,
+        'N': False,
     }
     replay = input('Чтобы сыграть ещё раз, введи "y"; '
                    'если не хочешь продолжать игру, введи "n": ')
